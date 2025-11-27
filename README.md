@@ -54,7 +54,7 @@
           <tr>
             <td align="center"><a href="https://ktmcloud.me/#/register?code=299n4MuL" target="_blank" data-state="closed">KTM Cloud</a></td>
             <td align="left">              月付：13.98元/1024GB<br>
-              季付：20.97元/500GB/月</td>
+              季付：20.97元/500GB</td>
             <td align="left">超高性价比机场，套餐低至6元/月，VMess+Hysteria2协议，三网优化加速。            85折优惠：KTM8888 </td>
           </tr>
           <tr>
