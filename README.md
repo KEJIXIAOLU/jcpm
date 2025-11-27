@@ -41,7 +41,7 @@
           <tr>
             <td align="center"><a href="https://stt.txyun.xyz/" target="_blank">STC</a></td>
             <td align="left">月付：39元/100GB<br>
-年付：500GB/月</td>
+年付：385元</td>
             <td align="left">速度快，老牌机场，SSR和V2ray节点</td>
           </tr>
           <tr>
