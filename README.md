@@ -1,6 +1,6 @@
 # ✈️2025 机场排名（精选机场推荐）
 
-<table width="95%" height="1166" border="1" cellpadding="6">
+<table width="95%" border="1" cellpadding="6">
           <tr>
             <td width="15%" height="57" align="center"><strong>机场名称</strong></td>
             <td width="24%" align="center"><strong>价 格</strong></td>
