@@ -97,7 +97,7 @@
           </tr>
           <tr>
             <td align="center"><a href="https://xn--5hqx9equq.com/#/register?code=UKhsZTgT" target="_blank">两元店</a><a href="https://kjxx.cc/naiu"></a></td>
-            <td align="left">季付：8元/1024GB/月<br>
+            <td align="left">季付：8元/1024GB<br>
 年付：22元</td>
             <td align="left">极致性价比机场，经济实惠，速度快，Trojan协议，专业海外团队，安全稳定。</td>
           </tr>
