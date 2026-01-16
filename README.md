@@ -9,7 +9,7 @@
           <tr>
             <td align="center"><a href="https://kjxl.cc/nice" target="_blank">Nice Cloud</a></td>
             <td align="left">月付：23.99元/200GB<br>
-            不限时套餐：65元/100GB</td>
+            不限时：65元/100GB</td>
             <td align="left">安全稳定4K速度，SS/SSR机场，IEPL+中转线路，解锁奈飞等流媒体。<br>88折优惠券：NICEXL88Z</td>
           </tr>
           <tr>
@@ -21,7 +21,7 @@
           <tr>
             <td align="center"><a href="https://kjxl.cc/kuailei" target="_blank">快雷GO</a></td>
             <td align="left">月付：20元/150GB<br>
-不限时套餐：199元1000GB</td>
+不限时：199元1000GB</td>
             <td align="left">晚高峰 4K 高速机场，IEPL家宽线路，奈飞/Disney+ GPT全解锁。
               <br>
             5折优惠券：xiaolu555</td>
@@ -29,13 +29,13 @@
           <tr>
             <td align="center"><a href="https://kjxl.cc/jisuyun" target="_blank">极速云</a></td>
             <td align="left">月付：15.99/1200GB<br>
-不限时套餐：88元/1000GB</td>
+不限时：88元/1000GB</td>
             <td align="left">2021年成立的性价比机场，中转+IEPL 高速节点，Vmess+Trojan 协议,解锁ChatGPT等流媒体。89折优惠码： KJXL88</td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/xiaodiqiuyi" target="_blank">小地球仪VPN</a></td>
             <td align="left">月付：23.8元/120GB<br>
-            不限时套餐：15元/60GB</td>
+            不限时：15元/60GB</td>
             <td align="left">国内翻墙专用VPN，主打高速稳定。通过【邀请码：625940】注册，可获得3天30GB不限速流量，首次充值9折优惠，年付75折仅201元。</td>
           </tr>
           <tr>
@@ -79,8 +79,8 @@
           </tr>
           <tr>
             <td height="51" align="center"><a href="http://kjxl.cc/mojie">魔戒</a></td>
-            <td align="left">不限时套餐：14.9元/130GB<br>
-            不限时套餐：42元/420GB</td>
+            <td align="left">不限时：14.9元/130GB<br>
+            不限时：42元/420GB</td>
             <td align="left">全中转节点，晚高峰4K，解锁 奈飞、ChatGPT等</td>
   </tr>
           <tr>
@@ -111,7 +111,7 @@
           <tr>
             <td align="center"><a href="https://fastestcloud.xyz/#/register?code=jyONP6eu" target="_blank">FastFly</a></td>
             <td align="left">月付：10元/150GB<br>
-              不限时套餐：15元/70GB<br>
+              不限时：15元/70GB<br>
             </td>
             <td align="left">老机场，性价比高，套餐实惠。</td>
           </tr>
