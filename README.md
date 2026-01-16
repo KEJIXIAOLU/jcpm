@@ -21,7 +21,7 @@
           <tr>
             <td align="center"><a href="https://kjxl.cc/kuailei" target="_blank">快雷GO</a></td>
             <td align="left">月付：20元/150GB<br>
-不限时套餐：99元300GB</td>
+不限时套餐：199元1000GB</td>
             <td align="left">晚高峰 4K 高速机场，IEPL家宽线路，奈飞/Disney+ GPT全解锁。
               <br>
             5折优惠券：xiaolu555</td>
