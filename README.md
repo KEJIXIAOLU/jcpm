@@ -8,9 +8,10 @@
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/nice" target="_blank">Nice Cloud</a></td>
-            <td align="left">月付：23.99元/200GB<br>
-            不限时：65元/100GB</td>
-            <td align="left">安全稳定4K速度，SS/SSR机场，IEPL+中转线路，解锁奈飞等流媒体。<br>88折优惠券：NICEXL88Z</td>
+            <td align="left">月付：22.99元/200GB<br>
+不限时套餐：85元/200GB</td>
+            <td align="left">安全稳定4K速度，SS/SSR机场，IEPL+中转线路，解锁奈飞等流媒体。<br>
+            <span style="color: #E00509">88折优惠券：NICEXL88Z</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://invite.wgetcloud.ltd/auth/register?code=yQGK" target="_blank">WgetCloud</a></td>
@@ -21,16 +22,15 @@
           <tr>
             <td align="center"><a href="https://kjxl.cc/kuailei" target="_blank">快雷GO</a></td>
             <td align="left">月付：20元/150GB<br>
-不限时：199元1000GB</td>
-            <td align="left">晚高峰 4K 高速机场，IEPL家宽线路，奈飞/Disney+ GPT全解锁。
-              <br>
-            5折优惠券：xiaolu555</td>
+不限时：139元/300GB</td>
+            <td align="left">晚高峰 4K 高速机场，IEPL家宽线路，奈飞/Disney+ GPT全解锁。 <br>
+            <span style="color: #DE090D">5折优惠券：xiaolu555</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/jisuyun" target="_blank">极速云</a></td>
             <td align="left">月付：15.99/1200GB<br>
 不限时：88元/1000GB</td>
-            <td align="left">2021年成立的性价比机场，中转+IEPL 高速节点，Vmess+Trojan 协议,解锁ChatGPT等流媒体。89折优惠码： KJXL88</td>
+            <td align="left">2021年成立的性价比机场，中转+IEPL 高速节点，Vmess+Trojan 协议,解锁ChatGPT等流媒体。<span style="color: #DB080B">89折优惠码： KJXL88</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/xiaodiqiuyi" target="_blank">小地球仪VPN</a></td>
@@ -49,33 +49,34 @@
             <td align="left">月付：18元/100GB<br>
 年付：164元/1200GB</td>
             <td align="left">Trojan节点，月付最多可以使用500GB/月。<strong><br>
-            </strong>7折优惠码：TT30</td>
+            </strong><span style="color: #D8060A">7折优惠码：TT30</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://www.kjxl.cc/KTM/" target="_blank" data-state="closed">KTM Cloud</a></td>
             <td align="left">              月付：13.98元/1024GB<br>
               季付：20.97元/500GB</td>
-            <td align="left">超高性价比机场，套餐低至6元/月，VMess+Hysteria2协议，三网优化加速。            85折优惠：KTM8888 </td>
+            <td align="left">超高性价比机场，套餐低至6元/月，VMess+Hysteria2协议，三网优化加速。            <span style="color: #DC0408">85折优惠：KTM8888</span></td>
           </tr>
           <tr>
             <td align="center"><a href="http://kjxl.cc/candytally" target="_blank">糖果云</a><a href="http://kjxl.cc/candytally" target="_blank"></a></td>
-            <td align="left">月付：18元/100GB<br>
-年付：179元</td>
-            <td align="left">IEPL专线机场，晚高峰4K，解锁 奈飞、ChatGPT等。<br>              6折优惠码：Candytally</td>
+            <td align="left">月付：28元/100GB<br>
+季付：78元</td>
+            <td align="left">IEPL专线机场，晚高峰4K，解锁 奈飞、ChatGPT等。<br>
+            <span style="color: #D8070B">6折优惠码：Candytally</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://yftg1.com/register?code=aDkLOszZ" target="_blank">扬帆云</a></td>
             <td align="left">月付：15.99元/100GB<br>
             年付：191.88元</td>
             <td align="left">新晋性价比机场，Vmess 协议的 IEPL 专线网络，解锁奈飞、ChatGPT等。<strong><br>
-            </strong>年付7折优惠：xiaolu</td>
+            </strong><span style="color: #D80105">年付7折优惠：xiaolu</span></td>
           </tr>
           <tr>
             <td align="center"><a data-state="closed" href="https://kjxl.cc/dingdangyun">叮当云</a><a data-state="closed" href="https://hongxingdl.com/web/#/login?code=hvLkj7Rj"></a><a href="https://candytally.diy/web/#/login?code=1gbE54kQ" target="_blank"></a></td>
             <td align="left">月付：15元/150GB<br>
   年付：150元/150GB</td>
             <td align="left">全中转节点，不限客户端，解锁 Netflix、HBO、Max 等流媒体账号。<br>
-            5折优惠码: dingdang001</td>
+            <span style="color: #D60407">5折优惠码: dingdang001</span></td>
           </tr>
           <tr>
             <td height="51" align="center"><a href="http://kjxl.cc/mojie">魔戒</a></td>
@@ -85,16 +86,16 @@
   </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/hx" target="_blank" data-state="closed">红杏云</a></td>
-            <td align="left">月付：14.9元/200GB<br>
-            不限时：139.9/1000GB</td>
+            <td align="left">月付：20元/200GB<br>
+季付：58元/200GB</td>
             <td align="left">新晋性价比机场，全中转 Trojan 节点，赠送EMBY影视库。<br>
-            8折优惠:lu88</td>
+            <span style="color: #E00508">8折优惠:lu88</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjvm.github.io/mit" target="_blank">Mitce</a></td>
             <td align="left">月付：4元/100GB<br>
 月付：21元/不限流量</td>
-            <td align="left">海外机场，hysteria 2/vless节点。8折码：like20</td>
+            <td align="left">海外机场，hysteria 2/vless节点。<span style="color: #DF0003">8折码：like20</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjvm.github.io/xmr" target="_blank">XMRth</a></td>
@@ -103,10 +104,11 @@
             <td align="left">流量超多，实惠</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://xn--5hqx9equq.com/#/register?code=UKhsZTgT" target="_blank">两元店</a><a href="https://kjxx.cc/naiu"></a></td>
-            <td align="left">季付：8元/1024GB<br>
-年付：22元</td>
-            <td align="left">极致性价比机场，经济实惠，速度快，Trojan协议，专业海外团队，安全稳定。</td>
+            <td align="center"><a href="https://wugui288.cc/#/login?code=LQymY8uL" target="_blank">乌龟云</a><a href="https://kjxx.cc/naiu"></a></td>
+            <td align="left">月付：18元/200GB<br>
+不限时：358元/3000GB</td>
+            <td align="left">IEPL专线，不限设备，家庭共享，赠送 EMBY 影视库。<br>
+            <span style="color: #DB0205">8折优惠码：科技小露</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://fastestcloud.xyz/#/register?code=jyONP6eu" target="_blank">FastFly</a></td>
