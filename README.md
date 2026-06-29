@@ -24,7 +24,7 @@
             <td align="left">月付：20元/150GB<br>
 不限时：139元/300GB</td>
             <td align="left">晚高峰 4K 高速机场，IEPL家宽线路，奈飞/Disney+ GPT全解锁。 <br>
-            <span style="color: #DE090D">5折优惠券：xiaolu555</span></td>
+            <span style="color: #DE090D">85折优惠券：xiaolu555</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/jisuyun" target="_blank">极速云</a></td>
