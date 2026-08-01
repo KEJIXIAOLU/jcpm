@@ -111,11 +111,11 @@
             <span style="color: #DB0205">8折优惠码：科技小露</span></td>
           </tr>
           <tr>
-            <td align="center"><a href="https://fastestcloud.xyz/#/register?code=jyONP6eu" target="_blank">FastFly</a></td>
-            <td align="left">月付：10元/150GB<br>
-              不限时：15元/70GB<br>
+            <td align="center"><a href="https://kjxl.cc/tagss" target="_blank">TAG</a></td>
+            <td align="left">季付：185元/250GB<br>
+              月付：114元/500GB<br>
             </td>
-            <td align="left">老机场，性价比高，套餐实惠。</td>
+            <td align="left">大牌 TOP 机场，流媒体AI全解锁，除了价格贵，没任何毛病。</td>
           </tr>
       </table>
 
