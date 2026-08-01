@@ -30,7 +30,7 @@
             <td align="center"><a href="https://kjxl.cc/jisuyun" target="_blank">极速云</a></td>
             <td align="left">月付：15.99/1200GB<br>
 不限时：88元/1000GB</td>
-            <td align="left">2021年成立的性价比机场，中转+IEPL 高速节点，Vmess+Trojan 协议,解锁ChatGPT等流媒体。<span style="color: #DB080B">89折优惠码： KJXL88</span></td>
+            <td align="left">2021年成立的性价比机场，中转+直连高速节点，GPT Nf Tk等流媒体全解锁。<span style="color: #DB080B">85折优惠码：KJXL88</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/xiaodiqiuyi" target="_blank">小地球仪VPN</a></td>
