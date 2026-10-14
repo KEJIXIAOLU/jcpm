@@ -1,6 +1,6 @@
 <h1 align="center">🚀✈️2026 机场排名（精选机场推荐）</h1>
       <br>
-      <table width="95%" height="1396" border="1" cellpadding="6">
+      <table width="95%" height="1240" border="1" cellpadding="6">
         <tbody>
           <tr>
             <td width="15%" height="57" align="center"><strong>机场名称</strong></td>
@@ -134,3 +134,15 @@
           </tr>
         </tbody>
       </table>
+
+
+更多机场评测：[>>点此进入](https://www.kejixiaolu.com/jichang.html)
+
+手机/电脑翻墙软件下载地址：[>>点此下载](https://www.kejixiaolu.com/ruanjian.html)
+
+小露的Youtube [科技小露频道](https://t.me/kejixl)     
+
+联系小露  [@小露的 Telegram](https://t.me/kejixiaolu)
+
+
+
