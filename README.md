@@ -34,7 +34,7 @@
             <td align="left">月付：28元/100GB<br>
 季付：78元</td>
             <td align="left">IEPL 家宽专线机场，晚高峰4K，解锁 奈飞、ChatGPT等。<br>
-            <span style="color: #D8070B">6折优惠码：Candytally</span></td>
+            <span style="color: #D8070B">8折优惠码：Candytally</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://www.xiaodiqiuyi.com/?src=youtebe&user=xlu" target="_blank">小地球仪VPN</a><a href="https://905.jsy902.xyz/#/register?code=CVjyraSt" target="_blank"></a></td>
