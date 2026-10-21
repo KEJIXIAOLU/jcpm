@@ -11,15 +11,13 @@
             <td align="center"><a href="https://kjxl.cc/kuailei" target="_blank">快雷GO</a><a href="https://nicecloud.co/register?aff=y8uM3QM3" target="_blank"></a></td>
             <td align="left">月付：20元/150GB<br>
 不限时：139元/300GB</td>
-            <td align="left">晚高峰 4K 高速机场，IEPL 家宽专线线路，奈飞 / Disney+ / GPT 全解锁。 <br>
-            <span style="color: #DE090D">85折优惠券：xiaolu555</span></td>
+            <td align="left">晚高峰 4K 高速机场，IEPL 家宽专线线路，奈飞 / Disney+ / GPT 全解锁。 <span style="color: #DE090D">85折优惠券：xiaolu555</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/jisucloud" target="_blank">极速Cloud</a></td>
             <td align="left">月付：30元/1000GB<br>
 季付：90元/1000GB</td>
-            <td align="left">4K高速老机场，解锁冷门国家和原生IP，GPT Nf Tk等流媒体全解锁。<br>
-            <span style="color: #E00509">88折优惠券：lu88<br>
+            <td align="left">4K高速老机场，解锁冷门国家和原生IP，GPT Nf Tk等流媒体全解锁。  <span style="color: #E00509">88折优惠券：lu88<br>
             </span></td>
           </tr>
           <tr>
