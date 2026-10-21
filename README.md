@@ -23,7 +23,7 @@
             </span></td>
           </tr>
           <tr>
-            <td align="center"><a href="https://nicecloud.co/register?aff=y8uM3QM3" target="_blank">Nice Cloud</a><a href="https://kjxl.cc/kuailei" target="_blank"></a></td>
+            <td align="center"><a href="https://kjxl.cc/nice" target="_blank">Nice Cloud</a><a href="https://kjxl.cc/kuailei" target="_blank"></a></td>
             <td align="left">月付：22.99元/200GB<br>
 不限时：85元/200GB</td>
             <td align="left">安全稳定4K速度，SS/SSR 机场，IEPL+ 中转线路，解锁奈飞等流媒体。<br>
