@@ -1,6 +1,6 @@
-<h1 align="center">🚀✈️2026 机场排名（精选机场推荐）</h1>
+ <h1 align="center">🚀✈️2026 机场排名（精选机场推荐）</h1>
       <br>
-      <table width="95%" height="1240" border="1" cellpadding="6">
+      <table width="95%" height="1106" border="1" cellpadding="6">
         <tbody>
           <tr>
             <td width="15%" height="57" align="center"><strong>机场名称</strong></td>
@@ -43,7 +43,7 @@
             <td align="left">国内翻墙专用VPN，主打高速稳定。通过【邀请码：625940】注册，可获得3天30GB不限速流量，首次充值9折优惠，<span style="color: #DA0508">年付75折仅201元。</span></td>
           </tr>
           <tr>
-            <td align="center"><a href="https://wugui288.cc/#/login?code=LQymY8uL" target="_blank">乌龟云</a><a href="https://kjxl.cc/sanyuandian" target="_blank"></a></td>
+            <td align="center"><a href="https://kjxl.cc/wugui" target="_blank">乌龟云</a><a href="https://kjxl.cc/sanyuandian" target="_blank"></a></td>
             <td align="left">月付：18元/200GB<br>
 不限时：358元/3000GB</td>
             <td align="left">IEPL专线，不限设备，家庭共享，赠送 EMBY 影视库。<br>
@@ -56,12 +56,6 @@
             <td align="left">全中转节点，晚高峰4K，解锁 奈飞、ChatGPT等</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://stt.txyun.xyz/" target="_blank">STC</a></td>
-            <td align="left">月付：39元/100GB<br>
-年付：385元</td>
-            <td align="left">速度快，老牌机场，SSR和V2ray节点</td>
-          </tr>
-          <tr>
             <td align="center"><a href="https://kjvm.github.io/naiu" target="_blank">NaiU_Net</a></td>
             <td align="left">月付：18元/100GB<br>
 年付：164元/1200GB</td>
@@ -69,19 +63,19 @@
             </strong><span style="color: #D8060A">7折优惠码：TT30</span></td>
           </tr>
           <tr>
-            <td align="center"><a href="https://ktmcloud.me/#/register?code=299n4MuL" target="_blank" data-state="closed">KTM Cloud</a></td>
+            <td align="center"><a href="https://www.kjxl.cc/KTM/" target="_blank" data-state="closed">KTM Cloud</a></td>
             <td align="left">              月付：13.98元/1024GB<br>
               季付：20.97元/500GB</td>
             <td align="left">超高性价比机场，套餐低至6元/月，VMess+Hysteria2协议，三网优化加速。            <span style="color: #DC0408">85折优惠：KTM8888</span></td>
           </tr>
           <tr>
-            <td align="center"><a href="https://905.jsy902.xyz/#/register?code=CVjyraSt" target="_blank">极速云</a></td>
+            <td align="center"><a href="https://kjxl.cc/jisuyun" target="_blank">极速云</a></td>
             <td align="left">月付：15.99/1200GB<br>
 年付：118元/1000GB</td>
             <td align="left">高性价比机场，中转+直连高速节点，GPT Nf Tk等流媒体全解锁，解锁冷门国家。<span style="color: #DB080B">85折优惠码： KJXL88</span></td>
           </tr>
           <tr>
-            <td align="center"><a href="https://yftg1.com/register?code=aDkLOszZ" target="_blank">扬帆云</a></td>
+            <td align="center"><a href="https://kjxl.cc/yangfan" target="_blank">扬帆云</a></td>
             <td align="left">月付：19.99元/100GB<br>
             年付：191.88元</td>
             <td align="left">实力 4K 高速机场，全中转节点，防封锁协议，解锁奈飞、ChatGPT等。<strong><br>
@@ -100,12 +94,6 @@
             季付：58元/200GB</td>
             <td align="left">性价比机场， IEPL专线，赠送EMBY影视库。<br>
             <span style="color: #E00508">8折优惠:lu88</span></td>
-          </tr>
-          <tr>
-            <td align="center"><a href="https://kjvm.github.io/mit" target="_blank">Mitce</a></td>
-            <td align="left">月付：4元/100GB<br>
-月付：21元/不限流量</td>
-            <td align="left">海外机场，hysteria 2/vless节点。<span style="color: #DF0003">8折码：like20</span></td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjvm.github.io/xmr" target="_blank">XMRth</a></td>
