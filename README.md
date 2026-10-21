@@ -24,8 +24,7 @@
             <td align="center"><a href="https://kjxl.cc/nice" target="_blank">Nice Cloud</a><a href="https://kjxl.cc/kuailei" target="_blank"></a></td>
             <td align="left">月付：22.99元/200GB<br>
 不限时：85元/200GB</td>
-            <td align="left">安全稳定4K速度，SS/SSR 机场，IEPL+ 中转线路，解锁奈飞等流媒体。<br>
-            <span style="color: #E00509">88折优惠券：NICEXL88Z</span></td>
+            <td align="left">安全稳定4K速度，SS/SSR 机场，IEPL+ 中转线路，解锁奈飞等流媒体。  <span style="color: #E00509">88折优惠券：NICEXL88Z</span></td>
           </tr>
           <tr>
             <td align="center"><a href="http://kjxl.cc/candytally" target="_blank">糖果云</a><a href="https://www.fightingly.org/api/v1/client/subscribe?token=108be51472ace2ba9a8d6f99bd85111c" target="_blank"></a></td>
