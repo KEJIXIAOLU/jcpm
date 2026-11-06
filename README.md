@@ -1,6 +1,6 @@
  <h1 align="center">🚀✈️2026 机场排名（精选机场推荐）</h1>
       <br>
-      <table width="95%" height="1150" border="1" cellpadding="6">
+      <table width="95%" height="1180" border="1" cellpadding="6">
         <tbody>
           <tr>
             <td width="15%" height="57" align="center"><strong>机场名称</strong></td>
@@ -110,6 +110,12 @@
               年付：216元<br></td>
             <td align="left"><p>晚高峰 4K 机场，最新防封协议，不限制设备，20+全球高速节点，解锁奈飞、ChatGPT等。<span style="color: #DB080B">5折优惠码： mogu2026<br>
             </span></p></td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://kjxl.cc/shanshuiyun" target="_blank">山水云</a></td>
+            <td align="left">月付：12元/100GB<br>              
+              不限时：39.9元/128GB<br></td>
+            <td align="left"><p>4K高速机场，多地区专线支持，低倍率节点，解锁各类AI 流媒体等服务</td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/tagss" target="_blank">TAG</a></td>
