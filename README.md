@@ -1,6 +1,6 @@
  <h1 align="center">🚀✈️2026 机场排名（精选机场推荐）</h1>
       <br>
-      <table width="95%" height="1200" border="1" cellpadding="6">
+      <table width="95%" height="1180" border="1" cellpadding="6">
         <tbody>
           <tr>
             <td width="15%" height="57" align="center"><strong>机场名称</strong></td>
@@ -75,8 +75,7 @@
             <td align="center"><a href="https://kjxl.cc/yangfan" target="_blank">扬帆云</a></td>
             <td align="left">月付：19.99元/100GB<br>
             年付：191.88元</td>
-            <td align="left">实力 4K 高速机场，全中转节点，防封锁协议，解锁奈飞、ChatGPT等。<strong><br>
-            </strong><span style="color: #D80105">年付7折优惠：xiaolu</span></td>
+            <td align="left">实力 4K 高速机场，全中转节点，防封锁协议，解锁奈飞、ChatGPT等。年付7折优惠：xiaolu</td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/dingdangyun" target="_blank" data-state="closed">叮当云</a></td>
@@ -89,8 +88,7 @@
             <td align="center"><a href="https://kjxl.cc/hx" target="_blank" data-state="closed">红杏云</a></td>
             <td align="left">月付：20元/200GB<br>
             季付：58元/200GB</td>
-            <td align="left">性价比机场， IEPL专线，赠送EMBY影视库。<br>
-            <span style="color: #E00508">8折优惠:lu88</span></td>
+            <td align="left">性价比机场， IEPL专线，赠送EMBY影视库。8折优惠:lu88</td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjvm.github.io/xmr" target="_blank">XMRth</a></td>
