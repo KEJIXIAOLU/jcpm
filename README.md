@@ -115,7 +115,7 @@
             <td align="center"><a href="https://kjxl.cc/shanshuiyun" target="_blank">山水云</a></td>
             <td align="left">月付：12元/100GB<br>              
               不限时：39.9元/128GB<br></td>
-            <td align="left"><p>4K高速机场，多地区专线支持，低倍率节点，解锁各类AI 流媒体等服务</td>
+            <td align="left"><p>4K高速机场，多地区专线支持，低倍率节点，解锁各类AI 流媒体等服务。8折优惠码：xiaolu168</td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/tagss" target="_blank">TAG</a></td>
