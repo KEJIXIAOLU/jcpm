@@ -81,7 +81,7 @@
             <td align="center"><a href="https://kjxl.cc/dingdangyun" target="_blank" data-state="closed">叮当云</a></td>
             <td align="left">月付：15元/150GB<br>
 年付：150元/150GB</td>
-            <td align="left">全中转节点，不限客户端，解锁 Netflix、HBO、Max 等流媒体账号。5折优惠码: dingdang001</td>
+            <td align="left">4K全中转节点，不限客户端，解锁 Netflix、HBO、Max、GPT等AI流媒体。5折优惠码: dingdang001</td>
           </tr>
           <tr>
             <td align="center"><a href="https://kjxl.cc/hx" target="_blank" data-state="closed">红杏云</a></td>
